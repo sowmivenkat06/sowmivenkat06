@@ -21,8 +21,6 @@ I'm a Computer Science Engineering student with a passion for developing impactf
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sowmiya_mv?theme=dark&font=Karma&ext=contest)
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/sowmiya_mv?theme=dark&font=Karma&ext=heatmap)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
