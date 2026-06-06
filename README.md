@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 👩‍💻 Aspiring Software Engineer | Full Stack Developer 
+👩‍💻 Aspiring Software Engineer | Full Stack Developer 
 
 I'm a Computer Science Engineering student with a passion for developing impactful software solutions. I enjoy building web applications, exploring machine learning concepts, and solving algorithmic challenges.
 
@@ -9,7 +9,7 @@ I'm a Computer Science Engineering student with a passion for developing impactf
 - 💡 Interested in UI/UX design, Web Development and Data Science 
 - 🎯 Goal: To become a skilled Software Engineer capable of building scalable and innovative solutions.
 
-- ⚡ "Code. Learn. Innovate."
+⚡ "Code. Learn. Innovate."
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sowmiya-m-v-59445b318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mvsowmiya17@gmail.com) 
