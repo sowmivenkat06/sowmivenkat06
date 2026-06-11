@@ -19,14 +19,7 @@ I'm a Computer Science Engineering student with a passion for developing impactf
 
 ## 🏆 LeetCode Profile
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="70">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-500+-orange?style=for-the-badge">
-</p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/sowmiya_mv?theme=dark&font=Karma&ext=contest)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
